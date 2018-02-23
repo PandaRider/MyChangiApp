@@ -1,0 +1,12 @@
+[{"img":"sutd","location_name":"SUTD","cat_name":"Attractions","rating":"10/10","price":"0"},
+  {"img":"orchardroad","location_name":"Orchard Road","cat_name":"Shopping","rating":"9/10","price":"0"},
+  {"img":"mbs","location_name":"Marina Bay Sands","cat_name":"lodging","rating":"10/10","price":"200"},
+  {"img":"universalstudios","location_name":"Universal Studios","cat_name":"Attractions","rating":"9/10","price":"70"},
+  {"img":"vivocity","location_name":"Vivo City","cat_name":"Attractions","rating":"8/10","price":"0"},
+  {"img":"singaporezoo","location_name":"Singapore Zoo","cat_name":"Attractions","rating":"7/10","price":"30"},
+  {"img":"singaporeflyer","location_name":"Singapore Flyer","cat_name":"Attractions","rating":"5/10","price":"40"},
+  {"img":"singaporebotanicgarden","location_name":"Singapore Botanic Gardens","cat_name":"Attractions","rating":"7/10","price":"0"},
+  {"img":"jurongbirdpark","location_name":"Jurong Bird Park","cat_name":"Attractions","rating":"7/10","price":"30"},
+  {"img":"buddhatoothtemple","location_name":"Buddha Tooth Relic Temple","cat_name":"Attractions","rating":"8/10","price":"20"}]
+
+

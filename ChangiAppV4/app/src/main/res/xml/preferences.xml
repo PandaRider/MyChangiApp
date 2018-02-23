@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:id="@+id/attractions"
+        android:defaultValue="true"
+        android:key="attractions"
+        android:summaryOff="Filtered out"
+        android:summaryOn="Filtered in"
+        android:title="Attractions" />
+    <CheckBoxPreference
+        android:id="@+id/lodging"
+        android:defaultValue="true"
+        android:key="lodging"
+        android:summaryOff="Filtered out"
+        android:summaryOn="Filtered in"
+        android:title="Lodging" />
+    <CheckBoxPreference
+        android:id="@+id/shopping"
+        android:defaultValue="true"
+        android:key="shopping"
+        android:summaryOff="Filtered out"
+        android:summaryOn="Filtered in"
+        android:title="Shopping locations" />
+    <CheckBoxPreference
+        android:id="@+id/algo"
+        android:defaultValue="true"
+        android:key="algo"
+        android:summaryOff="Brute force Algo implemented "
+        android:summaryOn="Fast Algo implented"
+        android:title="Algorithem" />
+    <EditTextPreference
+        android:key="budget"
+        android:title="Budget"
+        android:summary="What is your budget for this trip?"
+        android:defaultValue="20.0"
+        android:dialogTitle="Enter Budget here:"
+        android:inputType="numberDecimal"
+        />
+</PreferenceScreen>
